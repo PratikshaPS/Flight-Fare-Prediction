@@ -10,4 +10,9 @@
 This is a Flask web app which predicts fare of Flight ticket.
 
 <h3>Deployment on Google Cloud Platform</h3>
-Deployed using Google cloud platform - https://flightfareprediction-315316.el.r.appspot.com/
+https://flightfareprediction-315316.el.r.appspot.com/
+
+<h3>Installation</h3>
+To install the required packages and libraries
+
+pip install -r requirements.txt
