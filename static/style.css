@@ -1,0 +1,18 @@
+body {
+  background: #fafafa;
+  color: #333333;
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+}
+
+
